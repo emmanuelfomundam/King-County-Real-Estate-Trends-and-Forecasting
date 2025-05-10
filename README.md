@@ -4,9 +4,9 @@
 This data analysis project investigates key factors influencing housing prices in King County, Washington. By leveraging machine learning and geospatial visualization, the study answers critical questions about how features like square footage, waterfront access, renovation status, and proximity to urban centers impact property values. The analysis also explores whether these trends vary across neighborhoods.
 
 ### Key Questions:
-- What housing features most strongly influence sale prices?
-- How do buyer preferences differ by neighborhood?
-- Which machine learning models best predict housing prices?
+- How have housing market trends in King County evolved over time?
+- What factors influence property values? Do these trends vary by location or property characteristics?
+- What might these patterns indicate about shifting homeowner preferences or economic conditions?
 
 ## Features Analyzed
 - **Quantitative**: Square footage, year built, distance to urban centers.
